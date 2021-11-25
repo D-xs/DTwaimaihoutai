@@ -5,4 +5,4 @@ npm i
 # 启动
 npm start
 # 注意事项
-需要安装nodejs
+需要提前安装nodejs和MongoDB数据库
